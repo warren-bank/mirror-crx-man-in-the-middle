@@ -3,3 +3,9 @@
 **/chrome/
 **/chrome_build/
 **/test/
+
+man-in-the-middle.pem
+man-in-the-middle.crx
+Man-in-the-Middle.crx2.crx
+Man-in-the-Middle.crx3.crx
+Man-in-the-Middle.unsigned.xpi
