@@ -24,22 +24,22 @@ Use cases:
 
 ## Screenshots
 
-![Block or redirect requests](https://addons.cdn.mozilla.net/user-media/previews/full/211/211170.png?modified=1542319742)
+![Block or redirect requests](./etc/screenshots/1-block-or-redirect-requests.png)
 _Use Blocking Rules to block or redirect requests._
 
-![Modify request and response headers](https://addons.cdn.mozilla.net/user-media/previews/full/211/211152.png?modified=1542280030)
+![Modify request and response headers](./etc/screenshots/2-modify-request-and-response-headers.png)
 _Use Header Rules to modify request and response headers._
 
-![Use JavaScript to modify request headers](https://addons.cdn.mozilla.net/user-media/previews/full/211/211153.png?modified=1542280030)
+![Use JavaScript to modify request headers](./etc/screenshots/3-use-javascript-to-modify-request-headers.png)
 _Headers can be modified using JavaScript._
 
-![Use JavaScript to modify response body](https://addons.cdn.mozilla.net/user-media/previews/full/211/211154.png?modified=1542280030)
+![Use JavaScript to modify response body](./etc/screenshots/4-use-javascript-to-modify-response-body.png)
 _Use Response Rules to modify network responses._
 
-![Inject JavaScript and CSS into pages](https://addons.cdn.mozilla.net/user-media/previews/full/211/211151.png?modified=1542293585)
+![Inject JavaScript and CSS into pages](./etc/screenshots/5-inject-javascript-and-css-into-pages.png)
 _Use Content Scripts to inject JavaScript and CSS codes into pages._
 
-![Man in the Middle dark theme](https://addons.cdn.mozilla.net/user-media/previews/full/211/211160.png?modified=1542300620)
+![Man in the Middle dark theme](./etc/screenshots/6-man-in-the-middle-dark-theme.png)
 _Content Scripts can even be injected to the extension's pages._
 
 
